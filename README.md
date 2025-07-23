@@ -31,3 +31,8 @@ npm install
 3. Open the file via the browser (e.g. `http://localhost:3000/src/your-file.html`)
 
 > ✅ `output.css` is auto-generated. **Do not edit it manually.**
+
+## 📁 Applying Different Themes
+
+1. Easy way -> go to tweakcn.com, create the theme, replace the code in global.css
+1. Another way -> change the variable values in global.css
