@@ -5,8 +5,8 @@ Simple boilerplate to use Tailwind CSS with plain HTML in a structured way.
 ## ⚙️ Setup
 
 ```bash
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/dracu-lah/html-tailwind-template
+cd html-tailwind-template
 npm install
 ```
 
